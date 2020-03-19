@@ -1,3 +1,5 @@
+//This code-example comes from the official Wiki of Seeed Studio: http://wiki.seeedstudio.com/Grove-Piezo_Vibration_Sensor/
+
 const int ledPin=13;
 void setup() {
     Serial.begin(9600);
